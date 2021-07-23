@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'SF Pro Display';
+  src: url('../assets/fonts/SFPro/SFProDisplay-Regular.eot');
+  src: local('SF Pro Display Regular'), local('SFProDisplay-Regular'),
+    url('../assets/fonts/SFPro/SFProDisplay-Regular.eot')
+      format('embedded-opentype'),
+    url('../assets/fonts/SFPro/SFProDisplay-Regular.woff2') format('woff2'),
+    url('../assets/fonts/SFPro/SFProDisplay-Regular.woff') format('woff'),
+    url('../assets/fonts/SFPro/SFProDisplay-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}

@@ -1,0 +1,15 @@
+:root {
+  --primary-blye: #0085ff;
+  --primary-orange: #ff7a00;
+  --disabled-color: #ccd4db;
+  --tags-color: #5241bf;
+  --top-tags-color: #41bfb0;
+  --active-area-color: rgba(0, 133, 255, 29);
+
+  --bg-gradient: linear-gradient(
+    180deg,
+    rgba(185, 251, 255, 0.2) 0%,
+    rgba(227, 220, 255, 0.2) 100%
+  );
+  --bg-filter: blur(30px);
+}
